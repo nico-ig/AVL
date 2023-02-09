@@ -1,0 +1,8 @@
+FAZENDO:
+
+FAZER:
+  relatorio
+
+DUVIDAS:
+  nao tá imprimindo o nivel?
+
